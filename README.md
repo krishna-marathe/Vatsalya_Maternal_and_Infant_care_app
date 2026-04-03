@@ -329,7 +329,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Om Bharambe**
+**krishna Marathe**
 
 ## 🙏 Acknowledgments
 
@@ -342,7 +342,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or issues:
 - Open an issue on GitHub
-- Contact: om29dev@example.com
+- Contact: marathek183@gmail.com
+- contack-9209459325
 
 ---
 
